@@ -1,0 +1,12 @@
+# Core dependencies
+requests>=2.31.0
+python-dotenv>=1.0.0
+akeyless
+
+# Choose ONE of the following AI providers:
+
+# Option 1: Google Gemini (Recommended)
+google-generativeai>=0.3.0
+
+# Option 2: Anthropic Claude
+# anthropic>=0.39.0

@@ -1,0 +1,7 @@
+.env
+.env.local
+.env.production
+__pycache__/
+*.pyc
+venv/
+akeyless_agent_env/
